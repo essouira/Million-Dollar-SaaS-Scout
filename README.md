@@ -1,5 +1,3 @@
-![Uploading -tzKrGdYzlEHT3M3w0VfXif-fuv8HWILy-AxixFSs5I_sTEtSO1z9mT2LfcBiP65pxAyi0UV3gdX9dqjh_hKy6udKPe-gEN2pijAfcq8ffyT754MFyPYhn3uVqq1IN3yzbGuGWssFsp7FRNrW5TO6sSi0odb1ewea0K_VqwQpUqObZVX6oG7HdJSyUOO_Smf.jpg…]()
-
 <div align="center">
 
 # 🚀 Million-Dollar SaaS Scout
