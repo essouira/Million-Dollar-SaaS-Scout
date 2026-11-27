@@ -49,7 +49,7 @@ Most startup brainstorming produces a long list of exciting ideas. Founders don'
 Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/million-dollar-saas-scout.git
+git clone https://github.com/essouira/million-dollar-saas-scout.git
 ```
 
 Copy the `skills/saas-opportunity-scout` directory into the skills directory supported by your agent environment.
